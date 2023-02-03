@@ -1,0 +1,40 @@
+
+PERTEMUAN MINGGU KE 3 HARI KE 2
+
+java script
+
+
+Scvript :
+Console.log(1234555)
+<script>
+      var x = 1;
+      va bisa membuat dalam dua variabel yang di namain sama bisa di pakai berapappun kali 
+      let=tidak seperti var gsk bis adi tulis let 
+      console.log(x);
+      console.log(1278896); = nggak bisa dua kali
+      Hosting = apa yang dibawah bisa digunakan diatas (dalam Js) hosting pada var dan function
+
+      const=gak bisa di ubah namanya tetap  
+
+      x2 = 2;
+      console.log(x);
+
+
+
+      Tipe Data adalah sesuatu
+      data itu untuk menjadikan informasi kalau data bisa di pangkaso
+
+      1.Number
+      Tipe data number yang merupakan salah satu tipe yang cukup unik. Terlebih apabila dibandingkan dari tipe data serupa pada bahasa pemrograman yang lainnya. 
+      Tidak ada integer, float, short, dan long. Seperti pada bahasa pemrograman lainnya, hanya ada number.
+
+        JavaScript dengan formatnya IEEE-754 dalam merepresentasikan dua nilai integer. 
+        Selain itu juga floating-point atau angka desimal. 
+    Sedangkan untuk menampilkan floating-point atau angka desimal. Anda bisa memasukkan titik desimalnya, diikuti dengan angka dibelakangnya.
+
+      2.Bolean
+      Tipe data JavaScript boolean yang merepresentasikan entitas logika. 
+      Boolean juga dapat merepresentasikan nilainya benar atau juga salah, satu atau nol.
+
+      3.String
+      Sebuah nama orang/ kalimat yang ada di kryboard

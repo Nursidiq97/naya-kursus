@@ -1,5 +1,5 @@
 let a = 15;
-let b = 4;
+let b = 7;
 let c = 0;
 
 // pengurangan
@@ -15,7 +15,7 @@ c = a ** b;
 document.write(`${a} ** ${b} = ${c}<br/>`);
 
 // Pembagian
-c = a / b;
+c = (a - (a % b)) / b;
 document.write(`${a} / ${b} = ${c}<br/>`);
 
 // Modulo
@@ -24,17 +24,15 @@ document.write(`${a} % ${b} = ${c}<br/>`);
 
 // Aritmatika
 
-let x =1;
+let x = 1;
 x++;
 console.log(x);
 
 //Assignment: =, +=, -=, *=, /=, **=, %=
- let 
+let;
 
-
- //Logika 
+//Logika
 
 //  let x = 2;
 //  let y = 2;
 //  console.log(x == y || x X != y);
-

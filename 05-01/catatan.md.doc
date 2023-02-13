@@ -1,0 +1,24 @@
+    Fungsiion dalam java script
+    Mempunyai nama
+    Fungsgi itu proses kurung kurawa { } ada
+    Menyimpan Proses
+
+2. Pemrograman Fungsional
+   Pradigma =fungsi hanya sebatas untuk mengelola code,
+   Untuk mengelola pradigma fungsional,
+
+Pembahasan:
+
+1. Anonymous function
+   Perhatikan bahwa jika Anda tidak menempatkan fungsi anonim di dalam (), Anda akan mendapatkan kesalahan sintaksis. Itu ()menjadikan fungsi anonim sebagai ekspresi yang mengembalikan objek fungsi. Fungsi anonim tidak dapat diakses setelah pembuatan awal. Oleh karena itu, Anda sering perlu menugaskannya ke sebuah variabel. Anonime Fungsion
+
+2. 
+   Kata kata fungsion di hapus
+   Di tambahahin code sama dengan lebih dari
+   Consule biasa di pakai reach
+   Lamda symbol y ke balik
+3. Closure
+4. Higher-order functions
+   Bisa disebut js call back (Hinger Order).
+   Call back yang sering di pakai.
+5. Konsep side effects dan immutability

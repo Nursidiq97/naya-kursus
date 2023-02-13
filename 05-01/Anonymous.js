@@ -27,5 +27,27 @@ let grade = (x) => {
 console.log(grade(lSegitiga(10, 8)));
 // console.log(grade(lSegitiga(14, 45)));
 
+//Higher-order functions
+const umr = (x, y, cb) => {
+  return cb(x + y);
+};
 
-//
+const umur = umr(10, 15, (hasil) => {
+  console.log("Umurmu Sekarang Adalah", hasil);
+  return hasil;
+});
+console.log(umur);
+
+//Keliling Balok
+function kelilingbalok(t, p, l, cb) {
+  cb((t + p + l) * 4);
+}
+
+// console.log(kelilingbalok(3, 5, 7));
+
+// function tampil() {
+//   console.log(kelilingbalok(3, 5, 7));
+// }
+
+const tampil = (rumus) => console.log("hasil", rumus);
+kelilingbalok(5, 6, 8, tampil);

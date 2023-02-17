@@ -13,7 +13,7 @@ console.log(foo);
 console.log(namaikan);
 
 // Method shift()
-//ia menghapus elemen yang pertama dari suatu array dan mengembalikan nilai yang dihapus.
+//ia menghapus elemen yang pertama dari suatu array.
 
 //----------------------Method unishift--------------------------------//
 const namaburung = ["Kutilang", "Elang", "Emprit"];

@@ -19,7 +19,7 @@ eror itu dari kita
 
 #### Eror itu tidak memakai console.log 
 
- #### throw. eror sendiri itu untuk memlemar eror.
+ #### throw. eror sendiri itu untuk memlempar eror.
 
 // Cara menangani eror adalah sebagai berikut :
  # 1. titik yang ada di dalam Endetifier itu di hitung eror yang paling atas.

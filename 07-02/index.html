@@ -1,0 +1,59 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Pembuatan Tabel</title>
+    <style>
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      td,
+      th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Tabel Mahasiswa</h2>
+
+    <table id="siswa">
+      <tr>
+        <th>Nama</th>
+        <th>Nim</th>
+        <th>Prodi</th>
+      </tr>
+      <tr>
+        <td>Hamdanillah</td>
+        <td>181111109</td>
+        <td>Teknik Perjodohan</td>
+      </tr>
+      <tr>
+        <td>Rehan</td>
+        <td>1181111107</td>
+        <td>Teknik Perjudian</td>
+      </tr>
+      <tr>
+        <td>Paijo</td>
+        <td>181111198</td>
+        <td>Informatika</td>
+      </tr>
+      <tr>
+        <td>Rizal Hidz</td>
+        <td>17777789</td>
+        <td>Tehknik Hecker</td>
+      </tr>
+    </table>
+
+    <script src="table.js"></script>
+  </body>
+</html>

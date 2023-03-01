@@ -102,7 +102,7 @@ const mainallseleted = async () => {
     hasil
       .filter((h) => h.status == "fulfilled")
       .forEach((h) => {
-        console.log(h);
+        console.log(h );
       });
   } catch (err) {
     console.log(err);

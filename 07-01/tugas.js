@@ -21,5 +21,5 @@ const angka = document
   .getElementById("angka")
   .innerText.split("\n")
   .map(Number)
-  .reduce((acc, v) => acc + v,0);
-console.log(angka);
+  .reduce((acc, v) => acc + v, 0 );
+  document.write(angka);

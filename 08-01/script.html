@@ -1,0 +1,74 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tugas-JS-Hitung Mundur</title>
+
+    <style>
+      html {
+        background-color: #333232;
+        height: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      h1 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+      }
+
+      #container {
+        height: 100px;
+        width: 500px;
+        background-color: #f5e4c3;
+        margin: 0 auto;
+        border: 5px solid #88b169;
+
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+      }
+
+      .label {
+        align-self: center;
+        justify-self: center;
+
+        font-size: 30px;
+        font-weight: bold;
+      }
+
+      .btn1 {
+        align-self: center;
+        justify-self: center;
+
+        width: 100px;
+        height: 30px;
+      }
+      .btn1:hover {
+        font-size: 20px;
+        background-color: #f44336;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="ikan">Suprise</h1>
+    <div id="container">
+      <span id="count" class="label">Waktu:</span>
+      <button class="btn1" id="onClickBtn" onclick="onClick()">Mulai</button>
+
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+    </div>
+    <!-- <form action="#">
+      <p id="count"> Waktu </p>
+      <button id="onClickBtn" onclick="onClick()">Mulai</button>
+    </form> -->
+
+    <script src="main.js"></script>
+  </body>
+</html>

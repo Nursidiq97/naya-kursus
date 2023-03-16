@@ -4,7 +4,7 @@
 
 # Pembahasan:
 
-# 1). Universal Javascript
+## 1). Universal Javascript
 
 # 2). Global Object
 
@@ -20,7 +20,7 @@
 
 # Universal Java Script
 
-Dahulu JS hanya bisa berjalan di Browser. Makin ke sini makin berkembang, dan bisa berjalan di luar browser maka muncullah Node JS. Node JS adalah runtime untuk JS agar bis aberjalan di luar browser.
+Dahulu JS hanya bisa berjalan di Browser. Makin ke sini makin berkembang, dan bisa berjalan di luar browser maka muncullah Node JS. Node JS adalah runtime untuk JS agar bisa berjalan di luar browser.
 
 # Global Object
 
